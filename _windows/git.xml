@@ -1,0 +1,6 @@
+<application>
+  <component name="Git.Application.Settings">
+    <option name="myPathToGit" value="C:\Users\Константин\AppData\Local\Programs\Python\Python36-32\python.exe" />
+    <option name="SSH_EXECUTABLE" value="IDEA_SSH" />
+  </component>
+</application>
